@@ -57,6 +57,13 @@ A step by step series of examples that tell you how to get a development environ
 - **Tool System**: Depending on the tool that is used the money made from cutting grass will differ.
 - **Dynamic Foliage Generation**: Random grass and poison ivy generation for an ever-changing environment.
 
+## Collaborators
+
+- [@username1](https://github.com/Brossef) - Youssef Samaan
+- [@username2](https://github.com/mozzez-943) - Moeez Omair
+- [@username3](https://github.com/Niyer02) - Nikhil Iyer
+
+
 ## Built With
 - [JavaFX](https://openjfx.io/) 
 - [Maven](https://maven.apache.org/) 
