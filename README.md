@@ -59,9 +59,9 @@ A step by step series of examples that tell you how to get a development environ
 
 ## Collaborators
 
-- [@username1](https://github.com/Brossef) - Youssef Samaan
-- [@username2](https://github.com/mozzez-943) - Moeez Omair
-- [@username3](https://github.com/Niyer02) - Nikhil Iyer
+- [@Youssef Samaan](https://github.com/Brossef)
+- [@Moeez Omair](https://github.com/mozzez-943) 
+- [@Nikhil Iyer](https://github.com/Niyer02) 
 
 
 ## Built With
